@@ -67,9 +67,8 @@ const ChangePassword = () => {
             value={password2}
             onChange={handleInputChange}
           />
-          <button type="submit" className="btn">
-            Change Password
-          </button>
+          
+          
         </form>
       </div>
     </div>
